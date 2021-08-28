@@ -1,11 +1,17 @@
 {
-  "TODO item 1": {
-    "completed": true
-  },
-  "TODO item 2": {
-    "completed": true
-  },
-  "Buy Monitor": {
-    "completed": false
-  }
+    "Buy Monitor": {
+        "completed": false
+    },
+    "Test": {
+        "completed": false
+    },
+    "Call mom": {
+        "completed": false
+    },
+    "Something": {
+        "completed": false
+    },
+    "Another thing": {
+        "completed": false
+    }
 }
